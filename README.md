@@ -121,4 +121,4 @@ After `smode! → nexth!`, the receiving hart inherits `current_mode=MODE_S` (gl
 
 ## License
 
-MIT
+MIT, preserve header in source files, and opening banner in executables
